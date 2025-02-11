@@ -73,5 +73,5 @@ This **Customer Churn Dashboard** provides an interactive visualization of key m
 If you’d like to enhance this dashboard or improve data visualization, feel free to **fork this repository** and submit a pull request with your changes.
 
 ## Author
-Developed by [Your Name]. Connect with me for further discussions on **data analytics and visualization!**
+Developed by itsyourpavan. Connect with me for further discussions on **data analytics and visualization!**
 
